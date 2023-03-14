@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708048535250",
+    "firebase_url": "https://ecoenergy-a4797-default-rtdb.firebaseio.com",
+    "project_id": "ecoenergy-a4797",
+    "storage_bucket": "ecoenergy-a4797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708048535250:android:5a0c5299d86f04a115f70b",
+        "android_client_info": {
+          "package_name": "com.example.son_hali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708048535250-lhoa2b56g9qa62id1o5sff9ont1f8c9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHk3feEfAnu_nrxmAmFNf6zecTKgErPYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708048535250-lhoa2b56g9qa62id1o5sff9ont1f8c9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
